@@ -1,4 +1,4 @@
-# Manning School of Business — BBA Advising Knowledge Base
+# Manning School of Business — BSBA Advising Knowledge Base
 
 > Single consolidated knowledge file, organized into Part A–D. Each Part corresponds to one prior standalone file (kept for reference: Manning_Requirements.md = Part A, BSBA_DegreePathways.md = Part B, course_data_prereq.md = Part C, Manning_Course_Schedules.md = Part D). Sections are numbered within each Part (e.g. Part A Section 4, Part C Section 1) — reference them as "Part X, Section N" or "Part X §N" from agent instructions.
 
