@@ -1,6 +1,6 @@
 # Manning School of Business — BSBA Advising Knowledge Base
 
-> Single consolidated knowledge file, organized into Part A–D. Each Part corresponds to one prior standalone file (kept for reference: Manning_Requirements.md = Part A, BSBA_DegreePathways.md = Part B, course_data_prereq.md = Part C, Manning_Course_Schedules.md = Part D). Sections are numbered within each Part (e.g. Part A Section 4, Part C Section 1) — reference them as "Part X, Section N" or "Part X §N" from agent instructions.
+> Single consolidated knowledge file, organized into Part A–D. Part A = program requirements, Part B = degree pathways, Part C = course prerequisites, Part D = course schedule. Sections are numbered within each Part (e.g. Part A Section 4, Part C Section 1) — reference them as "Part X, Section N" or "Part X §N" from agent instructions.
 
 ## Master Index
 
@@ -44,7 +44,7 @@
 
 # Part A: Manning School of Business — BSBA Program Requirements
 
-> **Section 1 vs. Section 2 (Core Requirements) differs by pathway — determine Fall 2026 and Beyond vs. Prior (Before Fall 2026) Pathway first (see BSBA_DegreePathways.md keyword rule) before applying these tables.** Section 4 (Concentration Requirements) is the same for both pathways.
+> **Section 1 vs. Section 2 (Core Requirements) differs by pathway — determine Fall 2026 and Beyond vs. Prior (Before Fall 2026) Pathway first (see the pathway keyword rule in the agent instructions) before applying these tables.** Section 4 (Concentration Requirements) is the same for both pathways.
 
 
 ## Section 1: Core Requirements — Fall 2026 and Beyond Pathway
@@ -259,7 +259,7 @@ Every concentration requires **5 required core concentration courses**, EXCEPT A
 | 7 | Manning or Non-Manning Elective (3000/4000 level) |
 | 8 | Manning or Non-Manning Elective (3000/4000 level) |
 
-**Accounting Concentration (single):** **8 required core concentration courses + 5 elective slots** (two Manning/Non-Manning, one Manning Elective (3000/4000 level), two Manning/Non-Manning (3000/4000 level)) , per the Accounting pathway in BSBA_DegreePathways.md).
+**Accounting Concentration (single):** **8 required core concentration courses + 5 elective slots** (two Manning/Non-Manning, one Manning Elective (3000/4000 level), two Manning/Non-Manning (3000/4000 level)) , per the Accounting pathway in Part B, Section 1).
 
 **Finance Concentration (single):** **7 required core concentration courses + 6 elective slots** (two Manning/Non-Manning, two Manning Elective (3000/4000 level), two Manning/Non-Manning (3000/4000 level)) same total elective load as the standard pattern above minus the courses already fulfilled by the Finance core. ACCT.3300 and ACCT.4010 are pre-approved substitutes for either of the two "FINA Elective (3000/4000 level)" core slots.
 
@@ -430,11 +430,11 @@ To complete the Honors College requirements and graduate with the **Honors Colle
 
 *(Status: placeholder structure — qualifying course lists not yet populated. Do not present this section's course lists to students until filled in.)*
 
-This section is for university Core Curriculum electives that satisfy Manning's BOK requirements but are **not** Manning courses — i.e., the "Science Elective (SCL)" and "Arts and Humanities Elective (AH)" slots referenced in Sections 1, 2, and BSBA_DegreePathways.md. Currently those slots are marked `xxxx.xxxx` because eligibility is determined by UMass Lowell's university-wide Core Curriculum list, not by Manning.
+This section is for university Core Curriculum electives that satisfy Manning's BOK requirements but are **not** Manning courses — i.e., the "Science Elective (SCL)" and "Arts and Humanities Elective (AH)" slots referenced in Sections 1, 2, and Part B. Currently those slots are marked `xxxx.xxxx` because eligibility is determined by UMass Lowell's university-wide Core Curriculum list, not by Manning.
 
 ### 6.1 Science with Lab (SCL)
 
-- Options include a 3-credit science course paired with a separate 1-credit co-requisite lab, **or** a single course with the lab built in (e.g., CHEM.1010, CHEM.1020, CHEM.1040, LIFE.1080, NUTR.1100 — see note in BSBA_DegreePathways.md).
+- Options include a 3-credit science course paired with a separate 1-credit co-requisite lab, **or** a single course with the lab built in (e.g., CHEM.1010, CHEM.1020, CHEM.1040, LIFE.1080, NUTR.1100 — see note in Part B).
 - **TODO:** Add the full qualifying course list here once available, ideally grouped by department (BIOL, CHEM, PHYS, LIFE, NUTR, ENVI, etc.) with credit/lab pairing noted per course.
 - Until populated, direct students to UMass Lowell's official Core Curriculum / Science with Lab course list rather than guessing which non-Manning science courses qualify.
 
@@ -464,9 +464,9 @@ Use this structure when a student asks a hypothetical question about how a chang
 
 1. **Restate the scenario** in one sentence to confirm understanding.
 2. **Baseline vs. hypothetical** — briefly state what the student's current plan looks like (from their advisement report / stated progress), then what changes under the hypothetical.
-3. **Requirement impact** — walk through which requirement categories are affected (BOK/Collateral/Foundation/Core/Senior Core, Concentration, CCE, Honors if applicable), citing the relevant Section(s) of Manning_Requirements.md and/or BSBA_DegreePathways.md.
-4. **Prerequisite/sequencing impact** — check course_data_prereq.md for any chain effects the hypothetical would trigger (e.g., a delayed course pushing back everything downstream of it).
-5. **Timeline impact** — state plainly whether the change adds semesters, and if so roughly how many, using Manning_Course_Schedules.md to confirm course availability under the new sequence.
+3. **Requirement impact** — walk through which requirement categories are affected (BOK/Collateral/Foundation/Core/Senior Core, Concentration, CCE, Honors if applicable), citing the relevant Section(s) of Part A and/or Part B.
+4. **Prerequisite/sequencing impact** — check Part C (Course Data & Prerequisites) for any chain effects the hypothetical would trigger (e.g., a delayed course pushing back everything downstream of it).
+5. **Timeline impact** — state plainly whether the change adds semesters, and if so roughly how many, using Part D (Manning Course Schedule) to confirm course availability under the new sequence.
 6. **Caveat** — note that this is a planning estimate, not a guarantee, and that formal changes (concentration switch, leave of absence, etc.) need to go through the actual university process/advisor.
 
 ### 7.2 Email Draft Template
