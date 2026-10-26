@@ -10,7 +10,7 @@
 - Section 3: Math Placement (ALEKS Test) & Core Requirement Notes
 - Section 4: Concentration Requirements
 - Section 5: Honors College Requirements
-- Section 6: Non-Manning Core Electives (Placeholder)
+- Section 6: Non-Manning Core Electives (Science with Lab, Arts & Humanities, Social Sciences)
 - Section 7: Scenario Templates
 
 **Part B: BSBA Degree Pathways (by Concentration)**
@@ -426,29 +426,54 @@ To complete the Honors College requirements and graduate with the **Honors Colle
 
 ---
 
-## Section 6: Non-Manning Core Electives (Placeholder)
+## Section 6: Non-Manning Core Electives (Science with Lab, Arts & Humanities, Social Sciences)
 
-*(Status: placeholder structure — qualifying course lists not yet populated. Do not present this section's course lists to students until filled in.)*
+This section covers university Core Curriculum electives that satisfy Manning's BOK requirements but are **not** Manning courses — the "Science Elective (SCL)", "Arts and Humanities Elective (AH)" and "Social Sciences Perspective Elective (SS)" slots in Sections 1, 2, and Part B. Eligibility is set by UMass Lowell's university-wide Core Curriculum, not by Manning. The courses below are the options Manning recommends, not the complete list of qualifying courses.
 
-This section is for university Core Curriculum electives that satisfy Manning's BOK requirements but are **not** Manning courses — i.e., the "Science Elective (SCL)" and "Arts and Humanities Elective (AH)" slots referenced in Sections 1, 2, and Part B. Currently those slots are marked `xxxx.xxxx` because eligibility is determined by UMass Lowell's university-wide Core Curriculum list, not by Manning.
+**Term availability is not stored in this knowledge base.** Students use the Class Search tool (https://www.uml.edu/student-dashboard/#class-search/filters) and filter by Core Curriculum Breadth of Knowledge criteria (SCL, AH or SS) and by the semester of interest. Adding a "North Campus" filter is useful, since most Manning students prefer North Campus courses. Never state or assume that one of these courses is offered in a specific semester; tell the student to confirm it in Class Search.
+
+**Prefix rule (both pathways):** No more than two Breadth of Knowledge courses can be taken with the same course prefix (e.g., no more than two HIST courses overall). See Section 1 and Section 2 for the AH rules specific to each pathway.
 
 ### 6.1 Science with Lab (SCL)
 
-- Options include a 3-credit science course paired with a separate 1-credit co-requisite lab, **or** a single course with the lab built in (e.g., CHEM.1010, CHEM.1020, CHEM.1040, LIFE.1080, NUTR.1100 — see note in Part B).
-- **TODO:** Add the full qualifying course list here once available, ideally grouped by department (BIOL, CHEM, PHYS, LIFE, NUTR, ENVI, etc.) with credit/lab pairing noted per course.
-- Until populated, direct students to UMass Lowell's official Core Curriculum / Science with Lab course list rather than guessing which non-Manning science courses qualify.
+Class Search filter: "Sciences with Lab Perspective (SCL)". The Kennedy College of Science has partnered with the Manning School of Business to develop a number of science courses specifically for business students.
+
+**3-credit courses with the lab included (count as Science with Lab):**
+
+| Course Number | Title |
+|---|---|
+| CHEM.1010 | Applied Chemistry for the Non-Scientist |
+| CHEM.1020 | Forensic Science for the Non-Scientist |
+| CHEM.1040 | Consumer Science 4-1-1 – An Essential Guide |
+| LIFE.1080 | Biochemistry in the Kitchen |
+| NUTR.1100 | Nutrition and Wellness (lab is included in the class but meets at a different time) |
+
+**3-credit science courses with a separate 1-credit co-requisite lab:**
+
+| Course + Lab | Title |
+|---|---|
+| ATMO.1410 + ATMO.1430L | Weather and Climate |
+| ENVI.1100 + ENVI.1120L | Global Environmental Studies |
+| LIFE.1010 + LIFE.1030L | Life Science |
 
 ### 6.2 Arts and Humanities (AH)
 
-- AH rule differs by pathway (see Section 1 and Section 2): Fall 2026+ Pathway requires no specific HIST course but caps same-prefix courses at 2 of 3; Prior Pathway requires one AH elective to be a HIST course.
-- **TODO:** Add the full qualifying AH course list here once available, grouped by department (HIST, PHIL, ENGL literature, ART, MUSC, etc.).
-- Until populated, direct students to UMass Lowell's official Core Curriculum / Arts & Humanities Perspective course list rather than guessing which non-Manning courses qualify.
+- Class Search filter: "Arts and Humanities Perspective (AH)", plus "North Campus". PHIL and ENGL courses are typically offered on North Campus and are preferred by Manning students.
+- Example Class Search filter (Fall 2025, AH courses on North Campus): https://www.uml.edu/student-dashboard/#class-schedule/search?term=3510&campuses=UMLNORTH&coreCurriculumBOKs=AH
+- History electives: any HIST.xxxx course may be taken. Suggested: HIST.1110, HIST.1120, HIST.1050, HIST.1070, HIST.1080.
+- AH rule differs by pathway (see Section 1 and Section 2): Fall 2026+ Pathway requires no specific HIST course but caps same-prefix courses at 2 of 3 AH electives; Prior Pathway requires one AH elective to be a HIST course.
 
-### 6.3 General Guidance Until Populated
+### 6.3 Social Sciences (SS)
 
-- Never invent a course number or claim a specific non-Manning course satisfies SCL or AH — these lists are not yet confirmed in this knowledge base.
-- If a student names a specific non-Manning course and asks whether it counts, tell them this needs to be confirmed against the official Core Curriculum list or with their advisor rather than guessing.
-- Once populated, update the Section 6 index description above (currently marked "placeholder") to reflect the real content.
+- Class Search filter: "Social Sciences Perspective (SS)", plus "North Campus" if preferred.
+- Typical North Campus courses: PSYC.1010 Introduction to Psychological Science; SOCI.1010 Introduction to Sociology; POLI.1010 Introduction to American Politics.
+- Typical South Campus course: CRIM.1010 The Criminal Justice System.
+- Slot structure by pathway (see Section 1 and Section 2): Fall 2026+ uses ECON.2010 plus one SS elective; Prior uses two SS electives.
+
+### 6.4 General Guidance
+
+- Recommend only courses listed in this section. Never invent a course number or claim a course satisfies SCL, AH or SS unless it is listed here.
+- If a student names a course that is not listed, tell them to confirm it with the Class Search Breadth of Knowledge filter or with their advisor rather than guessing.
 
 ---
 
