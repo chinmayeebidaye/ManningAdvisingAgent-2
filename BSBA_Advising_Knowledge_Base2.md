@@ -2352,7 +2352,7 @@ Use this structure when a student asks for help drafting an email (e.g., to a pr
 | BUSI.2100 | Professional Development Seminar | 1 | 1 | CO-OP - PDS BUSI Regular Student Group or Permission of Instructor. |
 | BUSI.3100 | Co-op Assessment 1 | 2 | 2 | Pre-Req: BUSI.2110 Professional Development Seminar. |
 | BUSI.3200 | Co-op Assessment I (6 months) | 3 | 3 | BUSI.3CE Co-op Experience and BUSI.2100 Professional Development Seminar, Permission of Instructor following 6 month co-op. |
-| BUSI.4100 | Co-op Assessment 2 | 2 | 2 | BUSI.2100 Professional Develop Seminar, and BUSI.3100 Co-op Assessment l, and BUSI.3CE or 4CE Cooperative Education. |
+| BUSI.4100 | Co-op Assessment 2 | 3 | 3 | BUSI.2100 Professional Develop Seminar, and BUSI.3100 Co-op Assessment l, and BUSI.3CE or 4CE Cooperative Education. |
 | BUSI.4200 | Co-op Assessment 2 (6 months) | 3 | 3 | BUSI.4CE Co-op Experience ll, and BUSI.2100 Professional Development Seminar, Permission of Instructor following 6 month co-op. |
 | BUSI.4800 | Current Topics in Business | 3 | 3 | — |
 | BUSI.4890 | Internship in Business Administration | 3 | 3 | Students must be in a Manning Sch. of Bus.Concentration. Students must be at least first sem. Juniors with a GPA greater than 3.0. Permission of Instructor required. |
