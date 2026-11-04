@@ -2806,9 +2806,8 @@ Good to know:
 - Skipping or delaying the DIG can lead to the wrong course selections, a delay in your diploma, and your name missing from the commencement list.
 - The DIG starts the review. It does not replace any requirement and does not guarantee graduation: every requirement (including the Career Connected Experience for the Fall 2026 and Beyond pathway, and Honors requirements if you are in Honors) must still be met.
 - Questions: your faculty advisor first, then ManningSchoolofBusiness@uml.edu. Exact deadlines each term are on the Academic Calendar: https://www.uml.edu/registrar/calendars/
-- Commencement "Who to Contact for Help" page: https://www.uml.edu/commencement/contact.aspx
-- **Online and Professional Studies undergraduates** submit a DIG form; instructions and copies of the form are on the Graduate, Online and Professional Studies (GPS) website: http://gps.uml.edu/policies/graduation.cfm
-- Official Solution Center page: https://www.uml.edu/thesolutioncenter/academics/degree-program/graduate.aspx
+
+Related links: Commencement "Who to Contact" https://www.uml.edu/commencement/contact.aspx ; commencement list https://www.uml.edu/resources/registrar/term_spring/graduation/grad_list.html ; Solution Center graduation page https://www.uml.edu/thesolutioncenter/academics/degree-program/graduate.aspx
 
 **Agent notes (internal):**
 Use whenever the student asks how/when to apply for graduation, mentions the DIG, asks about the commencement list, says it is their last or second-to-last semester, or the plan shows one semester left; also when the report shows 85+ earned credits and the student plans to finish next semester.
@@ -2828,10 +2827,59 @@ The "credits remaining" number on your advisement report can be misleading, espe
 **Agent notes (internal):**
 120 is a floor: keep every required course even if the total goes over 120. The pathway notes in Part B list "Total Minimum Credits: 122" as the planning total for a standard pathway; do not present 122 as a university graduation rule.
 
+### E.3 What GPA do I need to graduate?
+
+**Answer:**
+You need an overall GPA of at least 2.000 and a Manning (major courses) GPA of at least 2.200. Your advisement report opens the GPA sections when you are below either minimum, so check the report in SiS.
+
+**Agent notes (internal):**
+If the report does not show a GPA, say you cannot tell whether the student meets either minimum and suggest the advisor. Flag GPA below 2.0 / 2.2 per the main instructions.
+
+### E.4 What GPA do I need to graduate with Academic Honors (Latin honors)?
+
+**Answer:**
+University Honors at graduation requires at least a 3.25 GPA for all courses completed at UMass Lowell and at least 60 credits earned at UMass Lowell. Up to 9 credits of departmental exam or S-graded courses can count toward those 60; Pass/Fail credits cannot. Transfer students also need at least a 3.0 at their previous institution and must meet the university residency requirement.
+
+Distinction levels: Summa Cum Laude 3.85-4.00, Magna Cum Laude 3.500-3.849, Cum Laude 3.250-3.499.
+
+**Agent notes (internal):**
+This is different from the Honors College (Commonwealth Honors), which has its own 3.250 GPA and curriculum requirements.
+
+### E.5 What is the most credits I can take in a semester?
+
+**Answer:**
+Pathways are built around about 15-16 credits a semester, and you can register for up to 20 credits without extra approval. To take more than 20, submit the online Undergraduate Academic Petition (Solution Center > Academic Forms: https://www.uml.edu/thesolutioncenter/Forms/Academic-Forms.aspx) and explain why you need the extra course(s). Approval depends on your past academic performance and exceptional circumstances, and requests are usually approved only up to 21 credits.
+
+**Agent notes (internal):**
+Never promise approval. When planning, stay within the 15-18 credit guidance in the main instructions.
+
+### E.6 How many credits make me a full-time student?
+
+**Answer:**
+Undergraduates need at least 12 credits (usually four 3-credit courses) to be full-time, unless Disability Services has approved a reduced course load for you. International students may have limits on online and hybrid courses, so check with the International Students & Scholars Office (https://www.uml.edu/isso/contact/).
+
+### E.7 Can I take a course Pass/No Credit?
+
+**Answer:**
+You can take up to four unrestricted elective courses on a Pass/No Credit basis. A pass-no credit course cannot count toward Core Curriculum (Breadth of Knowledge), major, minor, or collateral requirements. A P means C- or better and does not affect your GPA; an NC means the course was failed without affecting your cumulative average. You must request the grading option for each course by the last day to add/drop, and you cannot change it after that deadline.
+
+### E.8 Can I delete a bad grade to improve my GPA?
+
+**Answer:**
+Students who entered UMass Lowell with fewer than 60 transfer credits can repeat or delete up to 15 credits of courses with grades of C- or lower. Students who entered with 60 or more transfer credits can repeat or delete up to 7 credits. To request a deletion, fill out the Course Deletion form (Solution Center > Academic Forms: https://www.uml.edu/thesolutioncenter/Forms/Academic-Forms.aspx).
+
+### E.9 How do I drop a course?
+
+**Answer:**
+During the add/drop period you can drop a course yourself in SiS with no record on your transcript. After add/drop you may be able to withdraw until the last day to withdraw, which earns a grade of W. See the Withdrawal from Courses policy: https://www.uml.edu/catalog/undergraduate/policies/academic-policies/withdrawal-from-courses.aspx
+
+**Agent notes (internal):**
+If the student is in a prerequisite chain, note that dropping or failing a course delays every course that depends on it (check Part C).
+
 
 ## Concentrations, minors and advisors
 
-### E.3 Can I have a dual (two) or triple (three) concentration?
+### E.10 Can I have a dual (two) or triple (three) concentration?
 
 **Answer:**
 Dual: yes, as long as it fits within the degree requirements. You do not need two concentrations. Students complete 11 courses (33 credits) at the 3000/4000 level on top of the 5 core and senior core courses, plus 2 Manning or non-Manning electives. Most concentrations have 5 required courses (Accounting has 8 and Finance has 7), so two concentrations usually fit inside the 11 courses; for Accounting or Finance pairings you may use your free electives. SiS has a specific advisement report for every pairing of concentrations. Accounting + Finance together require 13 courses, because ACCT.3300 and ACCT.4010 count as approved Finance electives.
@@ -2841,10 +2889,32 @@ Triple: no. It would normally delay graduation and is not approved by the regist
 **Agent notes (internal):**
 For a pair other than Accounting + Finance, there is no combined overlap rule: check each concentration independently, schedule a shared course once, invent no overlap, and confirm the combined elective count with ManningSchoolofBusiness@uml.edu. Students have only one faculty advisor even with two concentrations.
 
+### E.11 How do I change or add a concentration or a minor, and how can I see what it would change?
+
+**Answer:**
+Use the Program Changes page (https://www.uml.edu/thesolutioncenter/Forms/Program-Changes/MSB.aspx). It covers: changing or adding a concentration if you are already in Manning, declaring a concentration if you are undeclared, adding a minor outside the business school, and (for students outside Manning) seeking a business concentration or minor.
+
+Update your concentration before your advising appointment; it typically takes one day to show on your advisement report in SiS. In SiS you can also run your own "What-If" report (select a new concentration, add or drop a second concentration, or add a minor) and save a PDF to compare. Video tutorial: https://www.uml.edu/thesolutioncenter/academics/degree-program/what-if.aspx
+
+**Agent notes (internal):**
+The agent can run its own planning scenario for a concentration change (see the playbook); never ask the student for a what-if audit or an updated report just to get a concentration's required courses. An official change always goes through the form and the advisor.
+
+### E.12 Can I add a minor?
+
+**Answer:**
+Manning students can add a minor offered outside the business school, including interdisciplinary minors (list: https://www.uml.edu/Catalog/Undergraduate/Undergraduate-Minors.aspx). Contact the department program coordinator listed at the bottom of that minor's catalog page to add it. You must finish the minor on or before the date you complete your major: you cannot stay extra time to finish a minor, so plan the minor courses with that department early.
+
+You cannot minor in business: every Manning degree already includes the same courses as the business minor, so it would be redundant.
+
+### E.13 How do I find my advisor?
+
+**Answer:**
+Log in to the Now dashboard and select the advisor icon (https://www.uml.edu/advising/), or look in your SiS Student Center. First- and second-year students work with a professional advisor from the Centers for Learning, Advising & Student Success (CLASS). Juniors and seniors are assigned one Manning faculty advisor, even with two concentrations (students with an Accounting concentration are usually assigned an Accounting faculty member).
+
 
 ## Breadth of Knowledge and electives
 
-### E.4 Can I take another course with the same prefix (for example a third POLI) for my Social Science, Science with Lab or Arts & Humanities requirement?
+### E.14 Can I take another course with the same prefix (for example a third POLI) for my Social Science, Science with Lab or Arts & Humanities requirement?
 
 **Answer:**
 No more than two Breadth of Knowledge electives can share a course prefix, and the limit is counted across your Arts & Humanities, Social Sciences and Science with Lab electives together, not within each category. Example: if you have two POLI courses (such as POLI.1010 and another POLI course), you cannot take a third POLI course for any of those requirements, so choose a different prefix (for Social Sciences, PSYC, SOCI or CRIM are other options). The same limit applies to HIST: no more than two HIST courses overall.
@@ -2859,7 +2929,41 @@ Procedure before suggesting or placing any AH, SS or SCL elective:
 Not stated in the knowledge base (do not guess; say so and refer to ManningSchoolofBusiness@uml.edu): whether required courses such as ENGL, MATH or ECON.2010 count toward the limit, and whether a science course's co-requisite lab counts as a second course with that prefix. When recommending a second science course, prefer a different prefix from the first.
 The limit is stated for Breadth of Knowledge courses only; do not apply it to Manning or free electives.
 
-### E.5 What is a Manning (MSB) elective, and how do I find one?
+### E.15 I need a Science with Lab (SCL) requirement. What should I take?
+
+**Answer:**
+Use Class Search (https://www.uml.edu/student-dashboard/#class-search/filters), filter Core Curriculum Breadth of Knowledge to "Sciences with Lab Perspective (SCL)" and pick your term. Courses developed with the Kennedy College of Science for business students:
+
+3-credit courses with the lab included: CHEM.1010 Applied Chemistry for the Non-Scientist; CHEM.1020 Forensic Science for the Non-Scientist; CHEM.1040 Consumer Science 4-1-1; LIFE.1080 Biochemistry in the Kitchen; NUTR.1100 Nutrition and Wellness (lab is included but meets at a different time).
+
+3-credit courses with a separate 1-credit co-requisite lab: ATMO.1410 + ATMO.1430L Weather and Climate; ENVI.1100 + ENVI.1120L Global Environmental Studies; LIFE.1010 + LIFE.1030L Life Science.
+
+Remember the prefix limit: no more than two Breadth of Knowledge electives with the same prefix across Arts & Humanities, Social Sciences and Science with Lab.
+
+**Agent notes (internal):**
+Recommend only courses listed here. Never claim a course is offered in a specific term; send the student to Class Search for the term. Check the student's other BOK prefixes before suggesting.
+
+### E.16 What should I take for Arts & Humanities (AH), including the History elective?
+
+**Answer:**
+Use Class Search, filter Core Curriculum Breadth of Knowledge to "Arts and Humanities Perspective (AH)", and consider adding the North Campus filter, since most Manning students prefer it. PHIL and ENGL courses are typically offered on North Campus. For a History elective any HIST course works; suggestions are HIST.1110, HIST.1120, HIST.1050, HIST.1070 and HIST.1080.
+
+Pathway rules: the Prior pathway requires one AH elective to be a HIST course. The Fall 2026 and Beyond pathway has no required HIST course, though one is encouraged. In both, no more than two Breadth of Knowledge electives can share a prefix, so no more than two HIST courses overall.
+
+**Agent notes (internal):**
+Confirm the pathway version before talking about the HIST requirement. Tally prefixes first (see the prefix FAQ). Term availability: send the student to Class Search.
+
+### E.17 What should I take for Social Sciences (SS)?
+
+**Answer:**
+Use Class Search, filter Core Curriculum Breadth of Knowledge to "Social Sciences Perspective (SS)", and consider the North Campus filter. Typical North Campus courses: PSYC.1010 Introduction to Psychological Science, SOCI.1010 Introduction to Sociology, POLI.1010 Introduction to American Politics. A typical South Campus course: CRIM.1010 The Criminal Justice System.
+
+The Fall 2026 and Beyond pathway uses ECON.2010 plus one SS elective; the Prior pathway uses two SS electives. Remember the prefix limit: no more than two Breadth of Knowledge electives with the same prefix.
+
+**Agent notes (internal):**
+Tally prefixes first; if the student already has two POLI courses, do not suggest POLI.1010 or any other POLI course.
+
+### E.18 What is a Manning (MSB) elective, and how do I find one?
 
 **Answer:**
 A Manning elective is any 3000/4000-level course from the Manning prefixes ACCT, BUSI, ENTR, FINA, MGMT, MIST, MKTG or POMS that you have not already used for a degree requirement. Students in the Bachelor's-to-Master's program can also use 6000-level courses from those prefixes. A non-Manning elective is any UMass Lowell course; the "3000/4000 level" non-Manning slots need a 3000/4000-level course.
@@ -2875,7 +2979,7 @@ When the student asks what they could take, list options instead of only definin
 
 ## Prerequisites, scheduling and registration
 
-### E.6 What are the common prerequisites for Manning courses?
+### E.19 What are the common prerequisites for Manning courses?
 
 **Answer:**
 Prerequisites for concentration courses vary by course. For the courses every BSBA student takes:
@@ -2892,7 +2996,7 @@ Prerequisites for concentration courses vary by course. For the courses every BS
 **Agent notes (internal):**
 This list is a starting point only. For EVERY course you recommend, schedule or are asked about, read its row in Part C and state the prerequisite exactly as listed. Check whether the student has completed it; a prerequisite that is only in progress normally pushes the course at least one semester later (unless the row allows a co-requisite, e.g. ACCT.3100 allows ACCT.2020 as pre- or co-requisite). Trace the full chain. If a course is not in Part C (most non-Manning courses such as HIST, PSYC, POLI, LGST), say its prerequisites are not confirmed in your materials and point to Class Search (click the course title for the Enrollment Requirement) or the advisor. Never guess a prerequisite.
 
-### E.7 Is a course offered in Fall or Spring?
+### E.20 Is a course offered in Fall or Spring?
 
 **Answer:**
 I can check this for Manning courses (ACCT, BUSI, ENTR, FINA, MGMT, MIST, MKTG, POMS) using the schedule data I have, which covers Fall 2026 through Spring 2027. Tell me the course and I will tell you which season(s) it runs. For any other course (for example ENGL, MATH, ECON, LGST, HIST, PSYC, POLI), check Class Search (https://www.uml.edu/student-dashboard/#class-search/filters) for the term you want.
@@ -2904,10 +3008,41 @@ Answer from Part D only, never from general knowledge:
 - Course not in Part D (non-Manning courses, or a code you cannot find): say you do not have schedule data for it and send the student to Class Search. Check the code for typos against Part C first.
 - Sections can change, so tell the student to confirm in Class Search before registering.
 
+### E.21 Can a prerequisite be taken as a co-requisite instead?
+
+**Answer:**
+In general, no. The prerequisite is there because you need to apply its concepts in the next course. Exceptions are possible for MGMT.4900 to help a student graduate on time (for example POMS.3010 as a co-requisite); contact the department chair, and email ManningSchoolofBusiness@uml.edu with questions.
+
+**Agent notes (internal):**
+Do not promise an exception. A failed or incomplete prerequisite blocks its dependent courses in the plan.
+
+### E.22 How do I build my schedule for next semester?
+
+**Answer:**
+Use Class Search (https://www.uml.edu/student-dashboard#class-search/filters) to find courses for a specific requirement, such as a concentration elective or a Breadth of Knowledge category. Once you have chosen your courses, use Schedule Builder (https://www.uml.edu/student-dashboard#my-academics/schedule-builder): enter the courses you plan to take and it builds the conflict-free schedules, which you can scroll through. After you register, check your advisement report to be sure no course appears under Surplus Electives.
+
+### E.23 A class is full or I need a permission number. What do I do?
+
+**Answer:**
+Email ManningSchoolofBusiness@uml.edu with your name, student ID, and the course and section number. Permission numbers are only issued after your prerequisites are checked, and a permission number does not override a section's capacity. For a full class, join the waitlist if one is open. Help getting into a full course is generally only given when the course is needed to keep you on track for graduation, and those requests are decided case by case by the Associate and Assistant Deans.
+
+### E.24 How do I read my advisement report?
+
+**Answer:**
+Open it in SiS (video tutorial: https://www.uml.edu/thesolutioncenter/Academics/degree-program/advisingreport.aspx). Tips:
+- Always select Expand All. A closed section usually means a requirement is met, but with more than one concentration that can be wrong.
+- The report lists Breadth of Knowledge first, then Collateral, Foundation, Core and Senior Core, Concentration(s), and free electives. You do not have to take courses in that order; follow your program pathway for the recommended order.
+- The UML Policy bar shows the year you entered, which tells you which pathway applies.
+- Make sure no course sits in Surplus Electives: that section holds courses that are not helping you progress. If one appears, talk to your advisor about swapping it for a course that meets a requirement.
+- The "credits remaining" figure can mislead, particularly for transfer students; rely on the requirement lists.
+
+**Agent notes (internal):**
+A course appearing in both the current semester and Surplus Electives: recommend dropping or swapping it (main instructions).
+
 
 ## Entrepreneurship intro course, transfer credit and study abroad
 
-### E.8 Do I need ENTR.1500, BUSI.1500 or ENTR.1000?
+### E.25 Do I need ENTR.1500, BUSI.1500 or ENTR.1000?
 
 **Answer:**
 ENTR.1500 replaced the old pair of ENTR.1000 and BUSI.1500 for students who joined the program in Spring 2021 or later. ENTR.1000 is no longer offered.
@@ -2923,7 +3058,17 @@ In every case you still need at least 120 credits to graduate.
 **Agent notes (internal):**
 Combine with the main-instruction ENTR.1500 rule: if the student has 30+ credits earned or in progress before that semester and has not taken ENTR.1500, skip it and plan ENTR.3000. A waiver is requested via ManningSchoolofBusiness@uml.edu after the replacement course is complete.
 
-### E.9 Will a course I take at another college (for example over the summer) transfer?
+### E.26 Why does my MassTransfer advisement report show so many unsatisfied electives?
+
+**Answer:**
+The section at the bottom of a MassTransfer student's report shows the MassTransfer block courses that are not listed individually above. You can ignore it if you meet every program requirement and will have at least 120 credits; if you will be under 120, those are free electives you need to take.
+
+Under the Prior (before Fall 2026) pathway, MassTransfer students are treated as having met all Breadth of Knowledge requirements except MATH.1220 and LGST.2620, which are tracked explicitly. Students who have not taken the equivalent of MATH.1210 are encouraged to take it before MATH.1220.
+
+**Agent notes (internal):**
+The MassTransfer exception is documented for the Prior pathway only. For a Fall 2026 and Beyond student, do not assume it applies; refer to ManningSchoolofBusiness@uml.edu.
+
+### E.27 Will a course I take at another college (for example over the summer) transfer?
 
 **Answer:**
 Once you are a UMass Lowell student you need approval before registering for a course elsewhere. Complete the off-campus course form (https://www.uml.edu/docs/offcampus_courses_tcm18-274376.pdf) and email it to manningschoolofbusiness@uml.edu before you register. Look up the course in the Transfer Dictionary first (https://www.uml.edu/registrar/transfer/#/) to see whether it is already pre-approved.
@@ -2933,13 +3078,135 @@ In general, business courses taken off campus are usually denied, while Breadth 
 **Agent notes (internal):**
 Transfer credit only counts toward a requirement when the student's report lists the equivalent course.
 
+### E.28 How do I study abroad and still stay on track?
+
+**Answer:**
+Start with the Office of International Experiences and Study Abroad (https://www.uml.edu/international-programs/): complete the web form under "How to Begin" and email studyabroad@uml.edu. Talk with your faculty advisor first about which courses you still need and which are "must take" versus "could take" during the term abroad, including electives and Breadth of Knowledge courses. Any 3000/4000-level business course must be taken at an AACSB-accredited institution, and the Study Abroad office helps you find partner schools. The transfer credit is approved on a Course Authorization for Study Abroad Transfer Credit form that goes through the Study Abroad office and Manning for final approval.
+
 
 ## Honors, 4+1, co-op, internships and careers
 
-### E.10 What is the Bachelor's-to-Master's (4+1) program and should I apply?
+### E.29 What is the Bachelor's-to-Master's (4+1) program and should I apply?
 
 **Answer:**
 The 4+1 program lets qualified students take graduate courses that can count toward both degrees. Benefits and criteria: https://www.uml.edu/academics/undergraduate-programs/bachelors-masters.aspx. Ideally apply at the end of your sophomore year; applying as a senior leaves fewer courses that can double count. Schedule an appointment with Kathleen Hennessy (Kathleen_Hennessy@uml.edu), Ryan Masson (Ryan_Masson@uml.edu) or the Assistant Dean in the Dean's office to review graduate options that fit your goals. Students in the program can use 6000-level Manning courses as Manning electives.
+
+**Agent notes (internal):**
+If the student's report shows an overall GPA above 3.0 and open elective slots, mention that 4+1 courses may be possible and suggest speaking with the contacts above. Do not state the official eligibility GPA; send the student to the program page.
+
+### E.30 How do I join or leave the Honors College, and how do transfers meet the requirements?
+
+**Answer:**
+Invited students opt in by filling out the Honors College Membership Form; full-time students already in the business program can join with a 3.25 cumulative GPA (https://www.uml.edu/honors/how-to-join.aspx). Check in with your Honors advisor each semester. To leave, email honors@uml.edu from your UMass Lowell account with your UMS number and say you wish to be removed.
+
+First-Year Seminar in Honors (FYSH, HONR.1100) satisfies College Writing I for honors students; if you already have College Writing I credit it counts as an Arts & Humanities requirement instead. Transfer students with at least 30 credits have H1 waived; with at least 60 credits or an Associate's degree, H1 and H2 are waived. Honors courses taken elsewhere may count toward H1-H8; email Honors@uml.edu.
+
+**Agent notes (internal):**
+Honors curriculum requirements (H1-H8) are in the Honors section of Part A. Honors requirements are in addition to Manning requirements, and the Honors Project/Thesis is separate from the Manning capstone.
+
+### E.31 What are Honors Ready sections, the E1 requirement and the difference between an honors thesis and project?
+
+**Answer:**
+Honors Ready: a regular section whose instructor prepares an honors component so honors and non-honors students share the class. Tell the instructor you want the honors component before the end of add/drop.
+
+E1: one enrichment requirement per semester in the Honors College: attend an enriching event outside your major (or do service work) and submit a short response paper.
+
+Thesis vs project: an Honors Thesis tests a hypothesis with new research and is written like an academic article (6 credits over two semesters). An Honors Project is everything else (6 credits over two semesters or 3 credits in one semester). Both need a final archival document. You can complete the project or thesis as a directed study with a Manning faculty member. Questions go to the Honors Office (honors@uml.edu).
+
+### E.32 How does a Co-op work and how many credits does it earn?
+
+**Answer:**
+Apply the semester before you want to enroll in the Professional Development Seminar (PDS); you can apply as early as the second semester of your first year. Co-op cycles: January-June (6 months), July-December (6 months), and June-August (3-month summer). Start at https://www.uml.edu/student-services/career-services/cooperative-education/ and attend an information session.
+
+Manning credit sequence (3-month or 6-month): BUSI.2100 Professional Development Seminar (1 credit, free elective), COOP 3CE (0 credits), then the co-op assessment course (BUSI.3100 or BUSI.4100 for a 3-month co-op, BUSI.3200 or BUSI.4200 for a 6-month co-op; the second co-op uses the 4000-level course) for 3 credits that count as a Manning 3000/4000 elective. Many students complete two co-ops. Plan the sequence with your advisor.
+
+**Agent notes (internal):**
+BUSI.3100 and BUSI.4100 are now 3 credits (the prerequisite table may still show 2 credits for BUSI.3100; if they conflict, tell the student to confirm credits in Class Search). Do not mention Part references.
+
+### E.33 How does an internship for credit work?
+
+**Answer:**
+Juniors and seniors can take an internship for credit: a 4000-level, 3-credit course in the discipline (or the interdisciplinary BUSI.4890). Students generally need at least a 3.0 GPA. Get approval before you start: send the job description and supervisor contact to the instructor of the internship course (find the instructor in Class Search). The faculty member reviews the position (it should apply your discipline, include workplace mentoring, and usually involve about 10 or more hours a week), talks with your supervisor, and then gives you a permission number to register for the semester of the internship. Expect several updates during the semester and a final report. Internships are generally part-time, while a Co-op is a longer, structured experience across three semesters.
+
+### E.34 Where can I find jobs, internships and mentors?
+
+**Answer:**
+Register on Handshake, the official UMass Lowell job board (https://www.uml.edu/student-services/Career-Services/Handshake/default.aspx). For internships see https://www.uml.edu/student-services/Career-Services/students/Internships/faq.aspx. The Career & Co-op Center offers resume reviews and drop-in career advising (https://www.uml.edu/student-services/career-services/). Create a profile on UML Connect (https://umlconnect.org/) to reach alumni, and look at the Reader Family Industry Mentor Program (https://www.uml.edu/msb/reader-family-mentoring-program/). Keep your LinkedIn profile current and say what you are looking for.
+
+### E.35 Is there a way to do research with a faculty member, and does it count for anything?
+
+**Answer:**
+The Manning Business and Entrepreneur Scholars in Training (BEST) program (https://www.uml.edu/msb/students/best.aspx) is the main option for working with a faculty member on research. It is also approved as an Honors Interactive Experience, and depending on scope it can support an honors project.
+
+**Agent notes (internal):**
+For students on the Fall 2026 and Beyond pathway, a BEST project can satisfy the non-credit Career Connected Experience requirement (tracked through a SIS student group, not a course).
+
+
+## Academic policies and appeals
+
+### E.36 How do I ask for an Incomplete (INC)?
+
+**Answer:**
+Request it from your course instructor. If that is not possible or the circumstances are unusual, contact the chair of the department that offers the course. Read the policy first: undergraduate https://www.uml.edu/catalog/undergraduate/policies/academic-policies/grading-policies.aspx and graduate https://www.uml.edu/catalog/graduate/policies/grading-policies.aspx
+
+### E.37 I need to appeal for Satisfactory Academic Progress (SAP). Who helps?
+
+**Answer:**
+Email ManningAssociateDeans@uml.edu. The SAP policy (https://www.uml.edu/thesolutioncenter/financial-aid/maintaining-aid/progress.aspx) sets the progress standards tied to financial aid and describes the appeal process; in Manning, SAP appeals are handled by the Associate Deans' office.
+
+### E.38 How do I appeal a grade or file another kind of appeal?
+
+**Answer:**
+Grade appeals: https://www.uml.edu/Catalog/Undergraduate/Policies/Academic-Policies/Student-Complaints.aspx. Other appeals (registration/enrollment, medical withdrawal, academic suspension, financial aid, academic integrity): https://www.uml.edu/registrar/student-appeals.aspx
+
+### E.39 I need to take a semester off. What do I do?
+
+**Answer:**
+For personal or financial reasons, see https://www.uml.edu/thesolutioncenter/academics/degree-program/withdraw.aspx and file the electronic withdrawal form on that page. Withdrawing from a single course, including medical or administrative withdrawal, is covered in the Withdrawal from Courses policy (https://www.uml.edu/catalog/undergraduate/policies/academic-policies/withdrawal-from-courses.aspx). Talk to your advisor first, because a break delays any course chain that depends on what you would have taken.
+
+**Agent notes (internal):**
+If the student asks what a break does to their graduation date, treat it as a what-if scenario using the prerequisite and schedule data; formal changes still go through the university process.
+
+### E.40 Can I get a letter confirming my academic standing or progress?
+
+**Answer:**
+Yes, for example for an OPT application, a scholarship, a parents' commencement letter, a car-purchase program, or an employer before your degree is conferred. Email ManningAssociateDeans@uml.edu with your request. Academic standing policy: https://www.uml.edu/catalog/undergraduate/policies/academic-policies/academic-standing.aspx
+
+### E.41 What is the Financial Responsibility Agreement (FRA) hold and how do I remove it?
+
+**Answer:**
+Each academic year, students must sign the Student Financial Responsibility Agreement before enrolling. In SiS Student Center open your To Do list, select Financial Responsibility Agreement, read it and complete the signature. The hold is removed automatically after you sign. Job aid: https://www.uml.edu/docs/FRA%20Job-Aid_tcm18-349707.pdf
+
+### E.42 Is there support for veterans and military students?
+
+**Answer:**
+Yes. The Office of Veterans Services supports veterans, reservists and active-duty students and helps you use federal and state education benefits: https://www.uml.edu/student-services/Veterans/
+
+
+## Student support (optional block)
+
+### E.43 Where can I get tutoring or academic help?
+
+**Answer:**
+Start with your instructor's office hours. The Writing Center (https://www.uml.edu/Writing-Center/; Cumnock Hall lower level on North Campus and O'Leary Library 3rd floor on South Campus) offers free tutoring on any writing assignment. The Centers for Learning, Advising & Student Success (CLASS) offer tutoring and workshops (https://www.uml.edu/class/, schedule at https://www.uml.edu/class/tutoring/tutor-schedule/); if your course has no tutor, use "Can't find your course? Request it now" on the schedule page. The UMass Lowell Libraries and Interlibrary Loan help with sources (https://www.uml.edu/library/).
+
+### E.44 I'm struggling with stress or my mental health. Where can I go?
+
+**Answer:**
+You are not alone, and these services are free. Counseling Services in the Wellness Center (University Crossing, 3rd floor, Suite 300) can be reached at 978-934-6800 or counseling@uml.edu during business hours; the Wellness Center site is https://www.uml.edu/student-services/counseling/. For urgent needs or a crisis, a crisis counselor is available 24/7 at 855-890-2879, and for emergencies you can call UMass Lowell Police at 978-934-4911. UMatter2 (https://www.uml.edu/UMatter2) and Togetherall (a 24/7 peer support community) are also available.
+
+**Agent notes (internal):**
+Respond with warmth first, then give these resources. If a student describes immediate danger, give the emergency numbers right away. This is outside pure course advising: enable only if you also widen the scope line in the main instructions.
+
+### E.45 I'm not sure where my next meal is coming from or I don't have stable housing.
+
+**Answer:**
+Please contact the Dean of Students' Office (2nd floor of University Crossing). For immediate food, the UMass Lowell Strive Pantry is in University Crossing, room 104, near the Solution Center; bring your student ID, and it is free (https://www.uml.edu/student-services/UML-Strive/Food-Pantry/default.aspx).
+
+### E.46 I have a documented disability. Can I get accommodations?
+
+**Answer:**
+Register with Disability Services through the Accommodate platform (https://www.uml.edu/student-services/disability/students/how-to-register.aspx). Once registered, request your accommodation letters each semester (https://www.uml.edu/student-services/disability/students/semester-request.aspx), then tell each instructor as early as possible. Contact: disability@uml.edu or 978-934-4574.
 
 **Agent notes (internal):**
 If the student's report shows an overall GPA above 3.0 and open elective slots, mention that 4+1 courses may be possible and suggest speaking with the contacts above. Do not state the official eligibility GPA; send the student to the program page.
