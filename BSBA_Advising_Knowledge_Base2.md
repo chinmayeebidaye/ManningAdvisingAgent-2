@@ -40,6 +40,7 @@
 **Part D: Manning Course Schedule (Fall & Spring Offerings)**
 - Section 1: Course Offerings by Semester
 
+**Part E: Frequently Asked Questions**
 
 ---
 
@@ -2809,3 +2810,166 @@ The **Declaration of Intent to Graduate (DIG)** is the step a student takes to t
 | POMS.4060 | Simulation & Optimization Business Analytics | Fall 2026 | Spring 2024, 2025, 2026 |
 | POMS.4090 | Directed Study in OM | Fall 2023, 2024, 2025 | Spring 2024, 2025, 2026, 2027 |
 | POMS.4890 | Internship in Operations Management | Fall 2023, 2024, 2025, 2026 | Spring 2024, 2025, 2026, 2027 |
+
+# Part E: Frequently Asked Questions (Manning BSBA Advising)
+
+> **How the agent uses this Part:** For general advising questions that are not about the student's own report, answer from the matching FAQ in 1-4 sentences, keeping the links and email addresses exactly as written. Use the student's own report, pathway and Parts A-D for anything specific to them. If this Part conflicts with Parts A-D, Parts A-D win and the conflict should be flagged. If no FAQ fits and Parts A-D do not answer it, refer the student to ManningSchoolofBusiness@uml.edu or their advisor; never guess.
+> **"Agent notes" are internal.** Never show them, or any Part/Section references, to a student.
+> Source: Manning Faculty Guide (Fall 2025 draft, advising sections) with advisor comments applied.
+
+
+
+## Graduating, credits and GPA
+
+### E.1 How do I apply to graduate? What is the DIG (Declaration of Intent to Graduate)?
+
+**Answer:**
+The Declaration of Intent to Graduate (DIG) is the form that starts your graduation review. Submit it during the semester before your final semester (after you register for your final-semester courses and before that final semester begins). A Manning professional advisor then checks that your remaining courses will complete your program.
+
+Steps:
+1. Check your advisement report in SiS (use Expand All) and plan your final semester with your faculty advisor.
+2. If you need to add or drop a concentration, do that first with the Change of Concentration form (https://www.uml.edu/thesolutioncenter/forms/program-changes/msb.aspx). It takes 1-2 days to show on your report, and a change can alter which courses you need, so re-check the report.
+3. Register for your final-semester courses. Because that is your last semester, you can enter "N/A" in the "Future Enrollment" box on the form.
+4. Submit the Manning DIG form, which is linked on https://www.uml.edu/Catalog/Undergraduate/Business/Policies/Declaration-of-Program.aspx. Example: a student finishing in Spring registers for Spring courses and submits the DIG during the Fall.
+5. A professional advisor reviews it (usually a few weeks) and emails you. Either your courses are confirmed or any discrepancies are listed. Reply to confirm; after that you are placed on the graduation list.
+
+Good to know:
+- Manning emails students with at least 85 earned credits when it is time to submit. If you did not see it, search your email for "DIG".
+- Summer graduates get a separate invitation and submit once summer registration opens.
+- Skipping or delaying the DIG can lead to the wrong course selections, a delay in your diploma, and your name missing from the commencement list.
+- The DIG starts the review. It does not replace any requirement and does not guarantee graduation: every requirement (including the Career Connected Experience for the Fall 2026 and Beyond pathway, and Honors requirements if you are in Honors) must still be met.
+- Questions: your faculty advisor first, then ManningSchoolofBusiness@uml.edu. Exact deadlines each term are on the Academic Calendar: https://www.uml.edu/registrar/calendars/
+
+**Agent notes (internal):**
+Use whenever the student asks how/when to apply for graduation, mentions the DIG, asks about the commencement list, says it is their last or second-to-last semester, or the plan shows one semester left; also when the report shows 85+ earned credits and the student plans to finish next semester.
+- Identify the student's final semester and say the DIG is submitted the semester before it, after registering for the final semester's courses. Never invent a deadline date; point to the Academic Calendar.
+- Do not say the DIG guarantees graduation; say the college reviews and approves it.
+- ENTR.1000 / ENTR.1500 / BUSI.1500 waivers are processed during the DIG review (see the Entrepreneurship intro course FAQ).
+- Online and Professional Studies undergraduates use the GPS form (http://gps.uml.edu/policies/graduation.cfm). Master's and doctoral students are out of scope.
+- When a plan fits in one more semester, add one line to the plan: "Submit your DIG this semester (one semester before your graduation term)."
+
+### E.2 How many credits do I need to graduate?
+
+**Answer:**
+The university minimum for a bachelor's degree is 120 credits. Business students typically finish with about 120-122, depending on choices such as a 3-credit science course with the lab built in versus a 3-credit course plus a separate 1-credit lab. What matters most is that you meet every program requirement and reach at least 120 credits. If College Writing I is waived, you may need an extra elective to get to 120.
+
+The "credits remaining" number on your advisement report can be misleading, especially for transfer students, so follow the requirement lists on the report instead.
+
+**Agent notes (internal):**
+120 is a floor: keep every required course even if the total goes over 120. The pathway notes in Part B list "Total Minimum Credits: 122" as the planning total for a standard pathway; do not present 122 as a university graduation rule.
+
+
+## Concentrations, minors and advisors
+
+### E.3 Can I have a dual (two) or triple (three) concentration?
+
+**Answer:**
+Dual: yes, as long as it fits within the degree requirements. You do not need two concentrations. Students complete 11 courses (33 credits) at the 3000/4000 level on top of the 5 core and senior core courses, plus 2 Manning or non-Manning electives. Most concentrations have 5 required courses (Accounting has 8 and Finance has 7), so two concentrations usually fit inside the 11 courses; for Accounting or Finance pairings you may use your free electives. SiS has a specific advisement report for every pairing of concentrations. Accounting + Finance together require 13 courses, because ACCT.3300 and ACCT.4010 count as approved Finance electives.
+
+Triple: no. It would normally delay graduation and is not approved by the registrar. The Bachelor's-to-Master's (4+1) program is the alternative to explore.
+
+**Agent notes (internal):**
+For a pair other than Accounting + Finance, there is no combined overlap rule: check each concentration independently, schedule a shared course once, invent no overlap, and confirm the combined elective count with ManningSchoolofBusiness@uml.edu. Students have only one faculty advisor even with two concentrations.
+
+
+## Breadth of Knowledge and electives
+
+### E.4 Can I take another course with the same prefix (for example a third POLI) for my Social Science, Science with Lab or Arts & Humanities requirement?
+
+**Answer:**
+No more than two Breadth of Knowledge electives can share a course prefix, and the limit is counted across your Arts & Humanities, Social Sciences and Science with Lab electives together, not within each category. Example: if you have two POLI courses (such as POLI.1010 and another POLI course), you cannot take a third POLI course for any of those requirements, so choose a different prefix (for Social Sciences, PSYC, SOCI or CRIM are other options). The same limit applies to HIST: no more than two HIST courses overall.
+
+**Agent notes (internal):**
+Procedure before suggesting or placing any AH, SS or SCL elective:
+1. List the student's AH/SS/SCL elective courses (completed, in progress, and already planned) by prefix.
+2. Count each prefix. A prefix at two is blocked for all three categories.
+3. Recommend only courses from the Part A Section 6 lists with a different prefix, and tell the student plainly why the blocked prefix is not allowed.
+4. Prior pathway: the required HIST elective counts toward the HIST limit.
+5. If the report already shows more than two of a prefix, flag it and refer the student to their advisor.
+Not stated in the knowledge base (do not guess; say so and refer to ManningSchoolofBusiness@uml.edu): whether required courses such as ENGL, MATH or ECON.2010 count toward the limit, and whether a science course's co-requisite lab counts as a second course with that prefix. When recommending a second science course, prefer a different prefix from the first.
+The limit is stated for Breadth of Knowledge courses only; do not apply it to Manning or free electives.
+
+### E.5 What is a Manning (MSB) elective, and how do I find one?
+
+**Answer:**
+A Manning elective is any 3000/4000-level course from the Manning prefixes ACCT, BUSI, ENTR, FINA, MGMT, MIST, MKTG or POMS that you have not already used for a degree requirement. Students in the Bachelor's-to-Master's program can also use 6000-level courses from those prefixes. A non-Manning elective is any UMass Lowell course; the "3000/4000 level" non-Manning slots need a 3000/4000-level course.
+
+**Agent notes (internal):**
+When the student asks what they could take, list options instead of only defining the term:
+1. Start from the 3000/4000-level courses with Manning prefixes in the schedule data for the term asked (Fall 2026 through Spring 2027 only; later terms are "availability unconfirmed").
+2. Remove courses already completed or in progress.
+3. Remove courses the student already needs for their own requirements (core, senior core, and the required courses of their concentration(s)), because one course cannot count twice.
+4. Remove courses whose prerequisites the student has not met, using the prerequisite data.
+5. Show a short list and name the prerequisite for each.
+
+
+## Prerequisites, scheduling and registration
+
+### E.6 What are the common prerequisites for Manning courses?
+
+**Answer:**
+Prerequisites for concentration courses vary by course. For the courses every BSBA student takes:
+- ACCT.2020 Accounting/Managerial: ACCT.2010
+- FINA.3010 Financial Management: ECON.2010 and ACCT.2010
+- MKTG.2010 Marketing Principles: College Writing I (ENGL.1010 or HONR.1100) or College Writing II (ENGL.1020)
+- MKTG.2100 Professional Communications: College Writing II (and a business major)
+- POMS.2010 Introduction to Business Analytics: ECON.2110, MATH.2830 or MATH.3860
+- POMS.3010 Operations Management: POMS.2010
+- MGMT.3010 Organizational Behavior: junior standing
+- MGMT.3800 Business Ethics: MGMT.3010
+- MGMT.4900 Strategic Management (or ENTR.4960): FINA.3010, MKTG.2010, POMS.3010, MGMT.3010 and senior standing
+
+**Agent notes (internal):**
+This list is a starting point only. For EVERY course you recommend, schedule or are asked about, read its row in Part C and state the prerequisite exactly as listed. Check whether the student has completed it; a prerequisite that is only in progress normally pushes the course at least one semester later (unless the row allows a co-requisite, e.g. ACCT.3100 allows ACCT.2020 as pre- or co-requisite). Trace the full chain. If a course is not in Part C (most non-Manning courses such as HIST, PSYC, POLI, LGST), say its prerequisites are not confirmed in your materials and point to Class Search (click the course title for the Enrollment Requirement) or the advisor. Never guess a prerequisite.
+
+### E.7 Is a course offered in Fall or Spring?
+
+**Answer:**
+I can check this for Manning courses (ACCT, BUSI, ENTR, FINA, MGMT, MIST, MKTG, POMS) using the schedule data I have, which covers Fall 2026 through Spring 2027. Tell me the course and I will tell you which season(s) it runs. For any other course (for example ENGL, MATH, ECON, LGST, HIST, PSYC, POLI), check Class Search (https://www.uml.edu/student-dashboard/#class-search/filters) for the term you want.
+
+**Agent notes (internal):**
+Answer from Part D only, never from general knowledge:
+- Give the season(s) and the most recent terms listed (for example "Fall 2026 and Spring 2027"). A dash means not offered that season in the data. If only some years are listed, say so.
+- Part D covers Fall and Spring through Spring 2027 only. For Fall 2027 or later, say it is unconfirmed until the schedule is released; you may mention the Fall/Spring pattern but not state it as confirmed. Never state Summer or Winter availability.
+- Course not in Part D (non-Manning courses, or a code you cannot find): say you do not have schedule data for it and send the student to Class Search. Check the code for typos against Part C first.
+- Sections can change, so tell the student to confirm in Class Search before registering.
+
+
+## Entrepreneurship intro course, transfer credit and study abroad
+
+### E.8 Do I need ENTR.1500, BUSI.1500 or ENTR.1000?
+
+**Answer:**
+ENTR.1500 replaced the old pair of ENTR.1000 and BUSI.1500 for students who joined the program in Spring 2021 or later. ENTR.1000 is no longer offered.
+
+Joined Spring 2021 or later: if you entered with 30 or more credits, ENTR.1500 is waived during your DIG review (if that leaves you under 120 credits, you will need a free elective). If you entered with fewer than 30 credits, you need ENTR.1500; if you did not take it until junior or senior year, take a Manning 3-credit elective instead, preferably ENTR.3000 or another ENTR 3000/4000 course.
+
+Entered Fall 2019 to Fall 2020 (BUSI.1500 era): 30 or more entering credits means BUSI.1500 is waived at your DIG review; fewer than 30 credits and not taken means take a Manning 3-credit elective, preferably ENTR.3000 or another ENTR 3000/4000 course.
+
+Transfer students listed with ENTR.1000: since it is no longer offered, take ENTR.3000 or any ENTR 3000/4000 course for an elective, or take part in a DifferenceMaker competition to have ENTR.1000 waived. The waiver is applied during the DIG review or after the upper-level course grade posts, and is noted in your DIG confirmation letter.
+
+In every case you still need at least 120 credits to graduate.
+
+**Agent notes (internal):**
+Combine with the main-instruction ENTR.1500 rule: if the student has 30+ credits earned or in progress before that semester and has not taken ENTR.1500, skip it and plan ENTR.3000. A waiver is requested via ManningSchoolofBusiness@uml.edu after the replacement course is complete.
+
+### E.9 Will a course I take at another college (for example over the summer) transfer?
+
+**Answer:**
+Once you are a UMass Lowell student you need approval before registering for a course elsewhere. Complete the off-campus course form (https://www.uml.edu/docs/offcampus_courses_tcm18-274376.pdf) and email it to manningschoolofbusiness@uml.edu before you register. Look up the course in the Transfer Dictionary first (https://www.uml.edu/registrar/transfer/#/) to see whether it is already pre-approved.
+
+In general, business courses taken off campus are usually denied, while Breadth of Knowledge courses and electives are usually approved. Study abroad is separate (see the study abroad FAQ). Approval is never guaranteed.
+
+**Agent notes (internal):**
+Transfer credit only counts toward a requirement when the student's report lists the equivalent course.
+
+
+## Honors, 4+1, co-op, internships and careers
+
+### E.10 What is the Bachelor's-to-Master's (4+1) program and should I apply?
+
+**Answer:**
+The 4+1 program lets qualified students take graduate courses that can count toward both degrees. Benefits and criteria: https://www.uml.edu/academics/undergraduate-programs/bachelors-masters.aspx. Ideally apply at the end of your sophomore year; applying as a senior leaves fewer courses that can double count. Schedule an appointment with Kathleen Hennessy (Kathleen_Hennessy@uml.edu), Ryan Masson (Ryan_Masson@uml.edu) or the Assistant Dean in the Dean's office to review graduate options that fit your goals. Students in the program can use 6000-level Manning courses as Manning electives.
+
+**Agent notes (internal):**
+If the student's report shows an overall GPA above 3.0 and open elective slots, mention that 4+1 courses may be possible and suggest speaking with the contacts above. Do not state the official eligibility GPA; send the student to the program page.
