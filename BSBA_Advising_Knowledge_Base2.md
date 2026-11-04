@@ -12,6 +12,7 @@
 - Section 5: Honors College Requirements
 - Section 6: Non-Manning Core Electives (Science with Lab, Arts & Humanities, Social Sciences)
 - Section 7: Scenario Templates
+- Section 8: Graduation Process — Declaration of Intent to Graduate (DIG)
 
 **Part B: BSBA Degree Pathways (by Concentration)**
 - Section 1: Business Administration - Accounting Concentration
@@ -523,6 +524,38 @@ Use this structure when a student asks for help drafting an email (e.g., to a pr
 5. **Supporting detail** — only what's needed for the recipient to act (e.g., course codes, planned semester, relevant requirement) — pull this from the plan already discussed, don't re-derive it.
 6. **Closing** — thank the recipient, sign off with the student's name.
 7. **Tone note for the agent:** keep drafts concise (under ~150 words) and let the student fill in/adjust personal specifics rather than inventing them.
+
+
+## Section 8: Graduation Process — Declaration of Intent to Graduate (DIG)
+ 
+*(Use this section whenever a student asks how to apply for graduation, when to apply, what the DIG is, or whether they will appear on the commencement list. Also use it as a reminder when a student's plan shows they are one semester away from finishing.)*
+ 
+### 8.1 What the DIG Is
+ 
+The **Declaration of Intent to Graduate (DIG)** is the step a student takes to tell the university they plan to graduate. It is what gets the student reviewed and approved for graduation by their department.
+ 
+### 8.2 When to Submit
+ 
+- Submit the DIG **one semester before the student's expected graduation semester.** (Example: a student finishing in Spring 2027 should submit during Fall 2026.)
+- When building a plan or what-if scenario, identify the student's planned final semester and tell them the DIG is due the semester before it.
+- Do not invent a specific deadline date. The exact DIG deadline each term is set by the university and the Academic Calendar. Direct the student to the Academic Calendar: https://www.uml.edu/registrar/calendars/
+### 8.3 How to Submit (Undergraduate Students)
+ 
+- Undergraduate students apply for graduation through their **college/department**, which for BSBA students is the **Manning School of Business**. Direct students to ManningSchoolofBusiness@uml.edu for DIG instructions and the form.
+- Commencement "Who to Contact for Help" page: https://www.uml.edu/commencement/contact.aspx
+- **Online and Professional Studies undergraduates** submit a DIG form; instructions and copies of the form are on the Graduate, Online and Professional Studies (GPS) website: http://gps.uml.edu/policies/graduation.cfm
+- Official Solution Center page: https://www.uml.edu/thesolutioncenter/academics/degree-program/graduate.aspx
+### 8.4 What Happens If a Student Applies Late or Not at All
+ 
+- Seniors who complete all graduation requirements but do **not** apply in a timely manner may have a **delay in when they are eligible to receive their diploma**, and their **name may not appear on the commencement list**.
+- Once the department approves the student for graduation, the student's name appears on the next commencement list update. Commencement list: https://www.uml.edu/resources/registrar/term_spring/graduation/grad_list.html
+### 8.5 Agent Guidance
+ 
+- Completing the DIG does not replace meeting the degree requirements. The student must still satisfy all requirements in Part A and Part B (including the CCE requirement for the Fall 2026 and Beyond Pathway, and Honors requirements if applicable). The DIG only starts the graduation review.
+- When a student's remaining courses fit in one more semester, add one line to the plan: "Submit your DIG this semester (one semester before your graduation term)."
+- Do not tell a student that a DIG guarantees graduation or a diploma date. Say that the department reviews and approves it.
+- Master's and doctoral students are outside this knowledge base's scope. If asked, direct them to their college/department or the graduate coordinators: https://www.uml.edu/graduate-student-services/coordinators.aspx
+- For any question this section does not answer (deadline dates, form details, special cases), refer the student to ManningSchoolofBusiness@uml.edu rather than guessing.
 
 ---
 
@@ -2430,7 +2463,9 @@ Use this structure when a student asks for help drafting an email (e.g., to a pr
 | FINA.4230 | Student Managed Fund | 3 | 3 | FINA.3010 Financial Management, and FINA.3110 Introduction to Financial Statement Analysis. |
 | FINA.4320 | Intermediate Corporate Finance | 3 | 3 | FINA.3310 Principles of Corporate Finance. |
 | FINA.4410 | Introduction to Financial Derivatives | 3 | 3 | FINA.3010 Financial Management, or FINA.3210 Investment and Portfolio Analysis. |
+| FINA.4430 | Finance Applications of Blockchain Technology | 3 | 3 | Pre-Req: FINA.3010 Financial Management. |
 | FINA.4550 | Financial Regulation, Compliance, and Ethics | 3 | 3 | Pre-Req: FINA.3010 Financial Management. |
+| FINA.4710 | Undergraduate CFA Level I Exam Review | 3 | 3 | FINA.3010 Financial Management, and FINA.3210 Investment and Portfolio Analysis, and FINA.3310 Principles of Corporate Finance. |
 | FINA.4890 | Internship In Finance | 3 | 3 | Pre-Reqs: FINA.3010 Business Finance, Instructor permission. |
 | FINA.4910 | International Finance | 3 | 3 | Pre-Req: FINA.3010 Financial Management. |
 | FINA.4970 | Independent Study Finance | 1 | 6 | Pre-Reqs: 61.301 Business Finance, and Instructor permission. |
@@ -2536,7 +2571,7 @@ Use this structure when a student asks for help drafting an email (e.g., to a pr
 | Course Code | Title | Min Credits | Max Credits | Prerequisites |
 |---|---|:---:|:---:|---|
 | MIST.2010 | Business Information Systems | 3 | 3 | — |
-| MIST.2020 | Emerging Technologies and Data Storytelling | 3 | 3 | Pre-Req: MIST.2010 Business Information Systems, or Instructor Permission. |
+| MIST.2020 | Emerging Technologies and Data Storytelling | 3 | 3 | — |
 | MIST.3030 | Database Management Systems | 3 | 3 | MIST.2010 Business Information Systems, or matriculation in BSIT program having completed INFO.1600 Introduction to Information Systems, or Instructor Permission. |
 | MIST.3040 | Data Communications and Networks | 3 | 3 | Pre-Req: MIST.2010 Mgmt Information Systems, or Instructor permission. |
 | MIST.3050 | Business Applications Development | 3 | 3 | Pre-Req: MIST.2010 Mgmt Information Systems, or Instructor permission. |
@@ -2591,11 +2626,13 @@ Use this structure when a student asks for help drafting an email (e.g., to a pr
 | MKTG.3990 | Marketing 3000 Electives. | 3 | 3 | — |
 | MKTG.4010 | Advertising | 3 | 3 | Pre-Req: MKTG.2010 Marketing Principles. |
 | MKTG.4020 | Buyer Behavior | 3 | 3 | Pre-Req: MKTG.2010 Marketing Principles. |
+| MKTG.4060 | Strategic Brand Management | 3 | 3 | Pre-Req: MKTG.2010 Marketing Principles, and Junior standing or greater. |
 | MKTG.4070 | Retailing | 3 | 3 | Pre-Req: MKTG.2010 Marketing Principles. |
 | MKTG.4110 | Marketing Analytics | 3 | 3 | Pre-Req: MKTG.2010 Marketing Principles; preference Marketing concentrators; COM filter courses. |
 | MKTG.4120 | Global Marketing | 3 | 3 | Pre-Req: MKTG.2010 Marketing Principles. |
 | MKTG.4200 | Emerging Technologies in Marketing | 3 | 3 | Pre-Req: MKTG.2010 Marketing Principles. |
 | MKTG.4300 | Social Media Marketing | 3 | 3 | Pre-Req: MKTG.2010 Marketing Principles. |
+| MKTG.4500 | Decoding Modern Market Trends and Structures | 3 | 3 | Pre-Req: MKTG.2010 Marketing Principles, and Junior standing or greater. |
 | MKTG.4960 | Current Topics in Marketing | 3 | 3 | Pre-Req: MKTG.2010 Marketing Principles; preference Marketing concentrators; COM filter courses. |
 | MKTG.4970 | Senior Seminar | 3 | 3 | — |
 | MKTG.4980 | Marketing Internship | 3 | 3 | — |
