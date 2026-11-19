@@ -1,6 +1,6 @@
 # Manning School of Business — BSBA Advising Knowledge Base
 
-> Single consolidated knowledge file, organized into Part A–D. Part A = program requirements, Part B = degree pathways, Part C = course prerequisites, Part D = course schedule. Sections are numbered within each Part (e.g. Part A Section 4, Part C Section 1) — reference them as "Part X, Section N" or "Part X §N" from agent instructions.
+> Single consolidated knowledge file, organized into Part A–E. Part A = program requirements, Part B = degree pathways, Part C = course prerequisites, Part D = course schedule, Part E - Frequently Asked Questions. Sections are numbered within each Part (e.g. Part A Section 4, Part C Section 1) — reference them as "Part X, Section N" or "Part X §N" from agent instructions.
 
 ## Master Index
 
@@ -70,14 +70,16 @@
 | __________ | Science Elective (SCL) | 3 |
 | __________ | Co-Req. Science Lab (SCL) | 1 |
 
-**AH rule:** No HIST course is required (though encouraged). No more than **2 of the 3 AH electives** may share the same course prefix/department — e.g., a student with two HIST courses cannot count a third HIST course toward the remaining AH slot and must pick a different department.
-
+**AH rule:** No HIST course is required (though encouraged). No more than **2 of the 3 AH electives** may share the same course prefix/department — e.g., a student with two HIST courses cannot count a third HIST course toward the remaining AH slot and must pick a different department. This limit does not apply to Science with Lab (SCL) courses.
+ 
 **Manning Collateral Requirements — 6 Credits**
 
 | Course Number | Title | Credits |
 |---|---|:---:|
-| LGST.2620 | Business Law | 3 |
-| ECON.2020 | Economics II (Macro) | 3 |
+| LGST.2620 | Introduction to Business Law | 3 |
+| ECON.2020 | Principles of Macroeconomics | 3 |
+
+**LGST.2620 note:** Unless the student is a MassTransfer student, LGST.2620 (Introduction to Business Law) falls under Breadth of Knowledge Social Sciences (SS), not Collateral.
 
 **Manning Foundation Requirements — 27 Credits**
 
@@ -137,15 +139,19 @@ Note: ECON.2110 (Statistics) is **not** part of the Fall 2026 and Beyond Pathway
 | __________ | Science Elective (SCL) | 3 |
 | __________ | Co-Req. Science Lab (SCL) | 1 |
 
-**AH rule:** One AH elective must be a HIST course. No more than two BOK courses overall may share the same course prefix.
+**AH rule:** One AH elective must be a HIST course. No more than two BOK courses overall may share the same course prefix. This limit does not apply to Science with Lab (SCL) courses.
+
+**MATH note (Prior pathway):** MATH.1210 satisfies the STEM requirement, but it is not specifically required as the STEM course. If a student placed directly into Calculus, they take another STEM elective instead of also taking Precalculus. If another STEM course already fills that spot and the student has not taken Precalculus yet, MATH.1210 falls into the Manning or non-Manning electives or Surplus section.
 
 **Manning Collateral Requirements — 9 Credits**
 
 | Course Number | Title | Credits |
 |---|---|:---:|
-| LGST.2620 | Business Law | 3 |
-| ECON.2010 | Economics I (Micro) | 3 |
-| ECON.2020 | Economics II (Macro) | 3 |
+| LGST.2620 | Introduction to Business Law | 3 |
+| ECON.2010 | Principles of Microeconomics | 3 |
+| ECON.2020 | Principles of Macroeconomics | 3 |
+
+**LGST.2620 note:** Unless the student is a MassTransfer student, LGST.2620 (Introduction to Business Law) falls under Breadth of Knowledge Social Sciences (SS), not Collateral.
 
 **Manning Foundation Requirements — 24 Credits**
 
@@ -184,7 +190,7 @@ No Career Connected Experience Requirement applies to the Prior (Before Fall 202
 
 *(Applies to MATH.1210 in both pathways and only within Manning School of Business advising.)*
 
-MATH.1210 (Management Precalculus) has no listed course prerequisite. Incoming/continuing Manning students who have **not completed MATH.1210** and have no transfer/AP equivalent may use their **ALEKS placement test score** to place directly into a math course.
+MATH.1210 (Management Precalculus) requires MATH.1115 (Fundamentals of Algebra) or an ALEKS placement score of 30+. Incoming/continuing Manning students who have **not completed MATH.1210** and have no transfer/AP equivalent may use their **ALEKS placement test score** to place directly into a math course.
 
 | ALEKS Score | Placement Result |
 |---|:---:|
@@ -198,13 +204,14 @@ MATH.1210 (Management Precalculus) has no listed course prerequisite. Incoming/c
 
 - The ALEKS placement option applies **only to Manning School of Business advising**. Do not suggest this placement pathway for non-Manning courses.
 - ALEKS placement is relevant when the student has not completed or is not currently enrolled in MATH.1210 and has no equivalent transfer/AP credit or other documented placement.
-- The ALEKS test Is an option before defaulting to MATH.1210 in the plan.
+- ALEKS is an option before defaulting to MATH.1115, because MATH.1210 requires an ALEKS score of 30+.
 - A score of **55 or higher** allows direct placement into MATH.1220 and therefore allows the student to skip MATH.1210.
 - A score of **30–54** places the student into MATH.1210.
 - A score of **0–29** places the student into MATH.1115.
 - Do not assume or invent an ALEKS score.
-- If the student has not taken ALEKS or does not know their score, MATH.1210 may be used as the default planning course while noting that ALEKS placement could allow accelerated placement.
+- If the student has not taken ALEKS or does not know their score, do not assume MATH.1210. Plan MATH.1115 unless the student places into MATH.1210 or higher, and note that an ALEKS score of 30+ would place them into MATH.1210 (55+ into MATH.1220).
 - Testing and placement details are available through UMass Lowell's placement testing information: https://www.uml.edu/orientation/placement-testing/testing-placements.aspx
+- For current students, math placement information is also at: https://www.uml.edu/sciences/mathematics/students/
 
 ## Section 4: Concentration Requirements
 
@@ -239,8 +246,8 @@ Step 4: Handle matches
 If both fragments match the official list → the student has two concentrations. List both. Never default to only the final fragment.
 Run a full, independent requirements check for each concentration identified, using its determined pathway.
 
-Step 5: Confirm with student
-before finalizing, state the detected concentration count and name(s) back to the student for confirmation.
+Step 5: Confirm with student 
+Before finalizing, state the detected concentration count and name(s) back to the student for confirmation.
 
 The concentration requirements for each pathway are listed below.
 
