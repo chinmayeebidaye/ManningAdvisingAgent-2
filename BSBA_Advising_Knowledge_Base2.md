@@ -319,7 +319,7 @@ Every concentration requires **5 required core concentration courses**, EXCEPT A
 | Course Number | Title |
 |---|---|
 | MGMT.3100 | Human Resources Management (AIL) |
-| MGMT.4100 | Negotiations (CTPS) |
+| MGMT.4100 | Negotiation Strategy and Process (CTPS) |
 | MGMT.4150 | Managing Teams and Projects |
 | MGMT.4200 | Leadership Processes (IL) |
 | MGMT.____ or POMS.4040 | MGMT Elective (3000/4000 level) or Managerial Quality Control |
@@ -477,7 +477,7 @@ Class Search filter: "Sciences with Lab Perspective (SCL)". The Kennedy College 
 - Class Search filter: "Social Sciences Perspective (SS)", plus "North Campus" if preferred.
 - Typical North Campus courses: PSYC.1010 Introduction to Psychological Science; SOCI.1010 Introduction to Sociology; POLI.1010 Introduction to American Politics.
 - Typical South Campus course: CRIM.1010 The Criminal Justice System.
-- Slot structure by pathway (see Section 1 and Section 2): Fall 2026+ uses ECON.2010 plus one SS elective; Prior uses two SS electives.
+- Slot structure by pathway (see Section 1 and Section 2): LGST.2620 counts as SS, so Fall 2026+ uses ECON.2010, LGST.2620 plus one SS elective; Prior uses LGST.2620 plus two SS electives (MassTransfer students excepted, see the LGST.2620 note in Section 1 and Section 2).
 
 ### 6.4 General Guidance
 
@@ -512,6 +512,7 @@ Use this procedure, together with the 7.1 template, whenever a student asks "wha
 3. **Pull the target's required courses** from its "[Name] Concentration" table in Section 4 and list them by code and title. Use the same pathway version's pathway for that concentration in Part B to see where those courses normally fall.
 4. **Apply the load structure** from the Concentration Elective Structure in Section 4: standard concentrations are 5 required courses + 8 elective slots, Accounting is 8 + 5, Finance is 7 + 6, and Accounting + Finance together is 13.
 5. **Map what the student has already taken.** Mark each required concentration course Done / In progress / Remaining. A completed course can fill an elective slot only if it meets that slot's rule (for example, a Manning 3000/4000-level course fits a "Manning Elective (3000/4000 level)" slot). Never count one course as both required and elective. When switching away from a declared concentration, list the old concentration's courses already taken and which open elective slot each can fill; if no slot is open, flag the extra credits and advise confirming with ManningSchoolofBusiness@uml.edu.
+5a. **Reconcile the totals (required check).** Removing or switching a concentration does not shorten the degree by itself. The total credits needed stay at 120 minus the credits the report shows as used (completed plus in-progress), and the number of remaining courses must still add up to that. Every course removed from the old concentration, and every elective slot the target concentration has that is not filled by a completed or in-progress course, becomes a remaining course: list it as a required course or as an open elective slot (for example, "Manning Elective (3000/4000 level)"). Never present only the target's required courses as the full remaining list. Before answering, count the remaining courses and credits, confirm they match the baseline total (any difference should be explained by Surplus credits or a different elective count, stated plainly), and show that count. Courses that no longer fit any slot go to Surplus; say so. Even if a student asks to drop one concentration they would still need to complete **5 required core concentration courses + 8 elective slots** so **13 courses** with Manning/Non-Manning electives included.
 6. **Build the semester plan:** remaining core + the target's remaining required courses + the elective slots, with prerequisites checked in Part C and capstone in the final semester. Part D covers terms through Spring 2027. For later terms, use the Fall/Spring pattern shown in Part D (a course offered only in Spring recently goes in a Spring term) and label those placements "availability unconfirmed until the schedule is released."
 7. **Format of the answer:** use the Full Report Format from the agent instructions. Label the concentration section "[Name] (scenario)". In the remaining-requirements section, show a table of the target's required courses with their status and a table of the elective slots with the course filling each or "Open". In the semester plan, name actual course codes for every concentration course; elective slots may be labeled by slot type (for example, "Manning Elective (3000/4000 level)"). In the Email Summary, use the scenario concentration's name as the heading and add "(scenario)".
 8. **State the impact versus the baseline** in two sentences: how many courses remain and the estimated graduation term, compared with the student's current plan.
@@ -532,12 +533,33 @@ Use this structure when a student asks for help drafting an email (e.g., to a pr
 6. **Closing** — thank the recipient, sign off with the student's name.
 7. **Tone note for the agent:** keep drafts concise (under ~150 words) and let the student fill in/adjust personal specifics rather than inventing them.
 
+### 7.3 Course Bucket (failed, withdrawn and extra courses)
+
+The Course Bucket is a section of the advisement report that holds a student's failed courses, withdrawn courses, and extra courses that do not fit any requirement. Courses in the Course Bucket do NOT appear under the section titled "ALL UML, IN PROGRESS*, AND TRANSFER CREDITS." A course the student is currently taking can sit in the Course Bucket: it is listed with no grade under the semester the student is enrolled in.
+
+**What to check:**
+1. Scan the Course Bucket in every full report analysis, not only the main requirement sections.
+2. Look for in-progress courses there (no grade, current or upcoming term). Compare each with the student's completed courses.
+3. If the student is enrolled in a course they have already taken and passed (for example, enrolled in MIST.3030 this Fall after passing it earlier), the new enrollment goes into the Course Bucket. It does not fill a requirement and it is NOT added to Surplus, because the student already passed it.
+4. Warn the student plainly: this course does not count toward any requirement or Surplus, so do not count its credits toward the remaining-credits math, and suggest they talk to their advisor about dropping or replacing it before the drop deadline. Do not invent a deadline date.
+5. Failed or withdrawn courses in the Course Bucket: if the course is required, say it must be retaken and treat anything that depends on it as blocked (see Part C). If the course is not required, do not count it as a requirement or a credit.
+6. A course in the Course Bucket is a different case from a course in Surplus (a passed course beyond the requirements). If a course appears in both the current semester and Surplus, recommend dropping it.
+
+### 7.4 Plan completeness, Manning electives and the English waiver
+
+**Do not miss a course or a credit.** The plan must follow the advisement report and the knowledge base together.
+1. Account for every slot on the report: Breadth of Knowledge, Collateral, Foundation, Core and Senior Core, each concentration, the Manning and Non-Manning elective slots (including every 3000/4000-level Manning elective), and any minor requirements the report shows. Mark each Done, In progress or Remaining. An open elective slot is a remaining requirement even though no course code is named: list it by slot type (for example, "Manning Elective (3000/4000 level)").
+2. Credit check before answering: the credits scheduled in the remaining terms must cover the credits still needed (120 minus credits used on the report, where "used" already includes in-progress credits). If the schedule falls short, a course or slot has been missed: find it. If it is over, say which courses are extra.
+3. **Manning electives are never waived and never double counted.** A course counts toward one requirement or slot only. The one exception is the Career Connected Experience (CCE) in the Fall 2026 and Beyond pathway, which may double count. A required concentration course cannot also fill a Manning elective slot, and a student cannot skip a Manning elective because another course "might" cover it.
+4. Minors: if the report shows remaining minor courses, include them in the plan and the credit total. Minor requirements are not in this knowledge base, so use only what the report shows and invent none.
+5. Do not hedge with "you may need one additional Manning elective depending on how coursework applies." Work it out from the report and state the number of open slots. If something truly cannot be determined, say exactly what is unclear and refer the student to their advisor.
+6. **ENGL.1010 waiver:** ENGL.1010 is frequently waived for students who took and passed ENGL.1020. When the report shows ENGL.1010 remaining and ENGL.1020 passed, tell the student it MIGHT be waived, that they must contact the First Year Writing department to request it, and that approval is not guaranteed. A waiver does not award credits, so they might need an extra elective to reach 120. Keep ENGL.1010 in the plan until a waiver is granted.
+
 ---
 
 # Part B: BSBA Degree Pathways (by Concentration)
 
 > Each concentration lists a **Fall 2026 and Beyond Pathway** (Fall 2026+ catalog) and a **Prior (Before Fall 2026) Pathway** (pre-Fall 2026 catalog, for continuing students).
-
 
 
 ## Section 1: Business Administration - Accounting Concentration
@@ -651,7 +673,7 @@ Use this structure when a student asks for help drafting an email (e.g., to a pr
 - Science with Lab can be a 3-credit science course with a separate 1-credit lab, or a 3-credit science course with the lab built in (e.g., CHEM.1010, CHEM.1020, CHEM.1040, LIFE.1080, NUTR.1100).
 - Calculus (MATH.1220 or equivalent) is recommended as a Manning or non-Manning elective for students planning graduate study.
 - Students are strongly encouraged to take a HIST course as an AH elective.
-- No more than two Breadth of Knowledge courses may be taken with the same prefix.
+- No more than two Breadth of Knowledge courses may be taken with the same prefix. This does not apply to Science with Lab (SCL) courses.
 
 ### Prior (Before Fall 2026) Pathway
 
@@ -750,7 +772,7 @@ Use this structure when a student asks for help drafting an email (e.g., to a pr
 - **Minimum Credits:** 123
 - **Capstone Requirement:** Either MGMT.4900 or ENTR.4960 satisfies the Capstone requirement.
 - **Diversity and Cultural Awareness:** The Core Curriculum Diversity and Cultural Awareness (DCA) Essential Learning Outcome is met outside the major. Students are encouraged to select an AH or SS course that meets this degree requirement. Please see the DCA course listing for a full list of classes that fulfill these requirements.
-- **Elective Notes:** No more than two Breadth of Knowledge courses can be taken with the same prefix.
+- **Elective Notes:** No more than two Breadth of Knowledge courses can be taken with the same prefix. This does not apply to Science with Lab (SCL) courses.
 
 ---
 
